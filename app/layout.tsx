@@ -19,9 +19,9 @@ const notoBengali = Noto_Sans_Bengali({
 });
 
 export const metadata: Metadata = {
-  title: "HomeLoan AI | House loan approval estimator",
+  title: "JobRole AI | Job role prediction",
   description:
-    "Estimate your monthly EMI and house loan approval chance. Numbers are calculated by code and explained by Gemini AI.",
+    "Enter your skills, experience and education to see which job roles you can get, your chance for each, and which skills to learn next. Scores are calculated by code and explained by Gemini AI.",
 };
 
 export default function RootLayout({ children }: LayoutProps<"/">) {
